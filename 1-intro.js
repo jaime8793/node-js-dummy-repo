@@ -8,3 +8,4 @@ if (amount < 10) {
 
 console.log(`hey it's my first node app!!!`)
 //just a test case
+// Path: 2-globals.js
